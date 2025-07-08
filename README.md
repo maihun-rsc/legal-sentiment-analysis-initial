@@ -2,8 +2,6 @@
 
 **AI-powered legal document analysis for compliance and risk assessment**
 
-![Legal Document Analysis Dashboard](https://via.placeholder.com/800x400?text=Legal+Sentiment+Analysis+Dashboard)
-
 ## Overview
 
 The Legal Document Sentiment Analyzer is an AI-powered tool designed to help legal professionals quickly assess sentiment and risk levels in legal documents. By combining state-of-the-art NLP models with domain-specific legal analysis, this application provides:
