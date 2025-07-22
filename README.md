@@ -77,7 +77,7 @@ Built with Python and Gradio, this tool helps legal teams identify potential ris
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/legal-sentiment-analyzer.git
+   git clone https://github.com/maihun-rsc/legal-sentiment-analysis-initial.git
    cd legal-sentiment-analyzer
    ```
 
